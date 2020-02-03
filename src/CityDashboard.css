@@ -1,9 +1,8 @@
-@media only screen and (max-width: 1000px) {
+
+@media only screen and (max-width: 750px) {
     .container {
         display: grid;
-        grid-column-gap: 5px;
-        grid-row-gap: 5px;
-        grid-template-columns: [start] 100% [end]; 
+        grid-template-columns: [start] 1fr [end]; 
         grid-template-rows: auto;
     }
     
@@ -15,12 +14,10 @@
     }    
 }
 
-@media only screen and (min-width: 1001px) {
+@media only screen and (min-width: 751px) {
     .container {
         display: grid;
-        grid-column-gap: 5px;
-        grid-row-gap: 5px;
-        grid-template-columns: [start] 25% 25% 25% 25%  [end];
+        grid-template-columns: [start] 1fr 1fr [end];
         grid-template-rows: auto;
     }
         
@@ -32,39 +29,58 @@
     }    
 }
 
+.element {
+    background-color: #ffffff;
+}
+
 .title {
     grid-column-start: start;
     grid-column-end: end;    
     grid-row-start: 1;
     grid-row-end: 2;
+    background-color: var(--main-bg-color);
+    color: white;    
+}
+
+.title p {
+    margin-top: 0.5ex;
+    font-size: 80%;
+}
+
+.container .title h1{
+    font-weight: normal;
+}
+
+.container .title h2{
+    font-weight: 200;
 }
 
 .container {
-    font-family: 'Roboto Light', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 10pt;
+    grid-gap: 4px;
 }
 
 .container > div {
-    border-radius: 5px;
-    border-color: lightgray;
-    border-width: thin;
-    border-style: solid;
-    box-shadow: 3px 3px 3px 0px rgba(211,211,211,0.50); ;
-    margin: 0.5ex;
     padding: 2ex
 }
 
 .container > div > h1 {
     margin: 0;  
-    font-size: 160%;
+    font-size: 140%;
     font-weight: normal;
 }
 
 .container > div > h2 {
     margin: 0;  
-    font-size: 120%;
+    font-size: 100%;
     font-weight: normal;
-    color: gray;
+    font-weight: 200;
+}
+
+.wrapper {
+    padding: 4px;
+    background-color: var(--main-bg-color);
 }
 
 

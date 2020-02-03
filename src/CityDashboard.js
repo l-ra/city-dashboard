@@ -4,15 +4,9 @@ import './CityDashboard.css';
 // svozovy plan: https://www.mestopacov.cz/assets/File.ashx?id_org=11721&id_dokumenty=2643
 
 
-function CityDashboard() {
+function CityDashboard(props) {
 
   const content=[
-    {
-      gridLbl: 'title',
-      title:'Smart.Pacov.City',
-      subtitle:'praktické informace o městě Pacově přehledně',
-      text:['Údaje jsou platné pro aktuální rok 2020.']
-    },
  
     {
       gridLbl: 'element',
@@ -74,8 +68,16 @@ function CityDashboard() {
 
 
   return (
-    <div className="container">
-      {items}
+    <div className="wrapper">
+      <div className="container">
+        <div className="title">
+          <h1>Smart.Pacov.City</h1>
+          <h2>přehled praktických informací o městě Pacově</h2>
+          <p>Údaje jsou platné pro aktuální rok 2020. [{props.width}x{props.height}]</p>
+        </div>
+
+        {items}
+      </div>
     </div>
   );
 }
