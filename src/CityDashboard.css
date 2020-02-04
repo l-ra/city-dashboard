@@ -1,36 +1,47 @@
 
-@media only screen and (max-width: 750px) {
+@media only screen 
+       and (max-width: 750px) {
     .container {
-        display: grid;
         grid-template-columns: [start] 1fr [end]; 
-        grid-template-rows: auto;
-    }
-    
-    .element {
-        grid-column-start: auto;
-        grid-column-end: auto;    
-        grid-row-start: auto;
-        grid-row-end: auto;    
     }    
 }
 
-@media only screen and (min-width: 751px) {
+@media only screen 
+       and (min-width: 751px)
+       and (max-width: 1200px) {
     .container {
-        display: grid;
-        grid-template-columns: [start] 1fr 1fr [end];
-        grid-template-rows: auto;
+        grid-template-columns: [start] 1fr 1fr  [end];
     }
-        
-    .element {
-        grid-column-start: auto;
-        grid-column-end: auto;    
-        grid-row-start: auto;
-        grid-row-end: auto;    
-    }    
 }
+
+@media only screen 
+       and (min-width: 1201px) {
+    .container {
+        grid-template-columns: [start] 1fr 1fr 1fr 1fr  [end];
+    }
+}
+
+
+.container {
+    display: grid;
+    grid-template-rows: auto;
+    grid-gap: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10pt;
+}
+
+.contentColumn {
+    grid-row-start: 2;
+    grid-row-end: 3;    
+    margin: 0;
+    padding :0;
+}    
 
 .element {
     background-color: #ffffff;
+    padding: 2ex;
+    margin-bottom: 2px;
+    margin-top: 4px;
 }
 
 .title {
@@ -40,6 +51,10 @@
     grid-row-end: 2;
     background-color: var(--main-bg-color);
     color: white;    
+    padding-top: 1ex;
+    padding-left: 2ex;
+    padding-right: 2ex;
+    margin: 0;
 }
 
 .title p {
@@ -47,31 +62,22 @@
     font-size: 80%;
 }
 
-.container .title h1{
+.title h1{
     font-weight: normal;
 }
 
-.container .title h2{
+.title h2{
     font-weight: 200;
 }
 
-.container {
-    font-family: 'Roboto', sans-serif;
-    font-size: 10pt;
-    grid-gap: 4px;
-}
 
-.container > div {
-    padding: 2ex
-}
-
-.container > div > h1 {
+.container h1 {
     margin: 0;  
     font-size: 140%;
     font-weight: normal;
 }
 
-.container > div > h2 {
+.container h2 {
     margin: 0;  
     font-size: 100%;
     font-weight: normal;
@@ -83,4 +89,10 @@
     background-color: var(--main-bg-color);
 }
 
+.castka {
+    font-weight: bold;
+}
 
+.splatnost {
+    font-weight: bold;
+}
