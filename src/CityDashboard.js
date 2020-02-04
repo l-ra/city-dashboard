@@ -51,10 +51,10 @@ function CityDashboard(props) {
     {
       gridLbl: 'element',
       title:'Daň z nemovitosti',
-      subtitle:'',
+      subtitle:'koeficient',
       text:[
-        <p>Pacov <span className='castka'></span></p>,
-        <p>Pacov <span className='castka'></span></p>,
+        <p>Pacov: <span className='castka'>1,6</span></p>,
+        <p>Bedřichov, Jetřichovec, Roučkovice, Velká Rovná, Zhoř: <span className='castka'>1,0</span></p>,
         
         <p>Zdroj: <a href="https://www.mestopacov.cz/assets/File.ashx?id_org=11721&id_dokumenty=2595">vyhláška č. 1/2008</a></p>
       ]
