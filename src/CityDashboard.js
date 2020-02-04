@@ -59,6 +59,38 @@ function CityDashboard(props) {
         <p>Zdroj: <a href="https://www.mestopacov.cz/assets/File.ashx?id_org=11721&id_dokumenty=2595">vyhláška č. 1/2008</a></p>
       ]
     },
+    {
+      gridLbl: 'element',
+      title:'Poplatek za užívání veřejného prostranství',
+      subtitle: <span>cena za m<sup>2</sup> za den</span>,
+      text:[
+        <p>výkopy, stavby a skládky: <span class="castka">1 Kč</span></p>,
+        <p>zařízení pro poskytování služeb: <span class="castka">2 Kč</span></p>,
+        <p>zařízení pro prodej: <span class="castka">20 Kč</span></p>,
+        <p>zařízení pro prodej o pouti: <span class="castka">100 Kč</span></p>,
+        <p>zařízení pro prodej řemeslných výrobků o pouti: <span class="castka">30 Kč</span></p>,
+        <p>umístění atrakcí o pouti: <span class="castka"></span></p>,
+        <p>Zdroj: <a href="https://www.mestopacov.cz/assets/File.ashx?id_org=11721&id_dokumenty=4143">vyhláška č. 1/2019</a></p>
+      ]
+    },
+
+    {
+      gridLbl: 'element',
+      title:'Výjímky z nočního klidu',
+      subtitle: 'pro rok 2019',
+      text:[
+        'úplné zrušení nočního klidu:',
+        'na Silvestra 31.12.2019-1.1.2020',
+        'o pouti 27.9.-29.9.2019',
+        'noční klid od 1:00 - 6:00',
+        '27.-28.7. - Noční hasičská soutěž o pohár starosty',
+        '31.8-1.9. - Loučení s létem',
+        '6.-7.7, 12.-13.7., 3.-4.8., 17.-18.8., 23.-24.8., 7.-8.9 - koncerty Na Maštálkách',
+        <p>Zdroj: <a href="https://www.mestopacov.cz/assets/File.ashx?id_org=11721&id_dokumenty=4948">vyhláška č. 3/2019</a></p>
+      ]
+    },
+
+
   ]
 
   let colCount;
