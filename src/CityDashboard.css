@@ -55,6 +55,7 @@
     padding-left: 2ex;
     padding-right: 2ex;
     margin: 0;
+    text-shadow: 1px 1px 3px  #000000;
 }
 
 .title p {
