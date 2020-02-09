@@ -87,6 +87,7 @@ function CityDashboard(props) {
       title: 'Výjímky z nočního klidu',
       subtitle: 'pro rok 2019',
       text: [
+        <p><b>Probíhá příjem požadavků pro vyhlášku pro rok 2020</b></p>,
         'úplné zrušení nočního klidu:',
         'na Silvestra 31.12.2019-1.1.2020',
         'o pouti 27.9.-29.9.2019',
@@ -236,6 +237,10 @@ function CityDashboard(props) {
       } else {
         hodnota = "Hodnota neznámá"
       }
+
+
+
+
       return (
         <span className='smlouva' key={idx}>
         <a className="sml-ikona" href={`https://www.hlidacstatu.cz/Detail/${sml.identifikator.idVerze}`}><i className="material-icons" style={{ color: "gray", cursor: "pointer" }} title="detial">search</i> </a>
@@ -300,7 +305,7 @@ function CityDashboard(props) {
           <div style={{ 'flexGrow': '1' }}>
             <h1>Smart.Pacov.City</h1>
             <h2>přehled praktických informací o městě Pacově</h2>
-            <p>Údaje jsou platné pro aktuální rok 2020. [{props.width}x{props.height}]</p>
+            <p>Údaje jsou platné pro aktuální rok 2020. </p>
           </div>
           <div style={{ 'flexGrow': 'none' }}>
             <img src="https://pacov.city/img/social-logo.png" style={{ 'maxHeight': '8ex' }} alt="logo" />
