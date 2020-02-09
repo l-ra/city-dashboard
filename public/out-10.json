@@ -1,0 +1,519 @@
+[
+  {
+    "identifikator": {
+      "idSmlouvy": "10800720",
+      "idVerze": "11624056"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 2000,
+    "hodnotaVcetneDph": 0,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-02-08T23:43:34.3327649+01:00",
+    "CalculatedPriceWithVATinCZK": 2420,
+    "CalcutatedPriceQuality": 2,
+    "ConfidenceValue": 0,
+    "Id": "11624056",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11624056",
+    "casZverejneni": "2020-02-07T14:20:03+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "6pu35fa",
+        "nazev": "GDF spol. s r.o.",
+        "ico": "47151901",
+        "adresa": "GDF spol. s r.o., Mostkov 28, 78801 Oskava",
+        "utvar": null
+      }
+    ],
+    "predmet": "Objednávka - servisní zásah na ČOV Pacov",
+    "datumUzavreni": "2020-02-07T00:00:00",
+    "cisloSmlouvy": "MPACSS00933183",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "7564015",
+      "idVerze": "11622188"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 0,
+    "hodnotaVcetneDph": 355751,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-02-08T23:37:33.0545171+01:00",
+    "CalculatedPriceWithVATinCZK": 355751,
+    "CalcutatedPriceQuality": 1,
+    "ConfidenceValue": 0,
+    "Id": "11622188",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11622188",
+    "casZverejneni": "2020-02-07T12:42:44+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "3ncedf2",
+        "nazev": "Hasičská vzájemná pojišťovna, a.s. ",
+        "ico": "46973451",
+        "adresa": "Hasičská vzájemná pojišťovna, a.s., Římská 45, 1200 Praha 2",
+        "utvar": null
+      }
+    ],
+    "predmet": "Pojistná smlouva č. 0512634018, dodatek č. 001 ke smlouvě",
+    "datumUzavreni": "2019-02-08T00:00:00",
+    "cisloSmlouvy": "MPACSS00822728",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10712360",
+      "idVerze": "11527596"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 289353,
+    "hodnotaVcetneDph": 350117.13,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-30T04:14:37.8839072+01:00",
+    "CalculatedPriceWithVATinCZK": 350117.13,
+    "CalcutatedPriceQuality": 1,
+    "ConfidenceValue": 0,
+    "Id": "11527596",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11527596",
+    "casZverejneni": "2020-01-29T19:06:43+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "2dnu5n8",
+        "nazev": "SYScore s.r.o.",
+        "ico": "26082870",
+        "adresa": "SYScore s.r.o., Lidmaňka 25, Lidmaň, 39494 Pacov",
+        "utvar": null
+      }
+    ],
+    "predmet": "Kupní smlouva - \"Dodávka ICT techniky do novostavby domu sociálních služeb v Pacově\"",
+    "datumUzavreni": "2020-01-29T00:00:00",
+    "cisloSmlouvy": "MPACSS00930128",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10711512",
+      "idVerze": "11526676"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 170000,
+    "hodnotaVcetneDph": 0,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-30T04:01:41.4456376+01:00",
+    "CalculatedPriceWithVATinCZK": 205700,
+    "CalcutatedPriceQuality": 2,
+    "ConfidenceValue": 0,
+    "Id": "11526676",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11526676",
+    "casZverejneni": "2020-01-29T16:22:17+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "b2jciij",
+        "nazev": "VODAK Humpolec, s.r.o.",
+        "ico": "49050541",
+        "adresa": "VODAK Humpolec, s.r.o., Pražská 544, 39630 Humpolec",
+        "utvar": null
+      }
+    ],
+    "predmet": "Objednávka - oprava vodovodu na prameništi Stražiště",
+    "datumUzavreni": "2020-01-29T00:00:00",
+    "cisloSmlouvy": "MPACSS00930047",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10711516",
+      "idVerze": "11526680"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 12000,
+    "hodnotaVcetneDph": 0,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-30T04:00:27.2857555+01:00",
+    "CalculatedPriceWithVATinCZK": 14520,
+    "CalcutatedPriceQuality": 2,
+    "ConfidenceValue": 0,
+    "Id": "11526680",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11526680",
+    "casZverejneni": "2020-01-29T16:22:17+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "b2jciij",
+        "nazev": "VODAK Humpolec, s.r.o.",
+        "ico": "49050541",
+        "adresa": "VODAK Humpolec, s.r.o., Pražská 544, 39630 Humpolec",
+        "utvar": null
+      }
+    ],
+    "predmet": "Objednávka - navážení pitné vody do vodojemu v Jetřichovci",
+    "datumUzavreni": "2020-01-29T00:00:00",
+    "cisloSmlouvy": "MPACSS00930037",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10709204",
+      "idVerze": "11524256"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 46620,
+    "hodnotaVcetneDph": 56460,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-30T04:11:49.3030462+01:00",
+    "CalculatedPriceWithVATinCZK": 56460,
+    "CalcutatedPriceQuality": 1,
+    "ConfidenceValue": -1,
+    "Id": "11524256",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11524256",
+    "casZverejneni": "2020-01-29T14:20:03+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "",
+        "nazev": "Jaroslav Kerouš, 1983",
+        "ico": "",
+        "adresa": "Kerouš Jaroslav, 1983, Pacov, Pacov",
+        "utvar": null
+      },
+      {
+        "datovaSchranka": "",
+        "nazev": "Jan Dvořák",
+        "ico": "60661445",
+        "adresa": "Dvořák Jan, Pacov , 39501 Pacov",
+        "utvar": null
+      }
+    ],
+    "predmet": "Pronájem garáže",
+    "datumUzavreni": "2020-01-29T00:00:00",
+    "cisloSmlouvy": "MPACSS00929831",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10678244",
+      "idVerze": "11491228"
+    },
+    "schvalil": "Mgr. Josef Hejda",
+    "hodnotaBezDph": 33750,
+    "hodnotaVcetneDph": 33750,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-28T03:05:29.5212786+01:00",
+    "CalculatedPriceWithVATinCZK": 33750,
+    "CalcutatedPriceQuality": 1,
+    "ConfidenceValue": -1,
+    "Id": "11491228",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11491228",
+    "casZverejneni": "2020-01-27T11:31:09+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "cegzpxj",
+      "nazev": "Úřad práce ČR - krajská pobočka v Jihlavě - kontaktní pracoviště Pelhřimov (Úřad práce České republiky)",
+      "ico": "72496991",
+      "adresa": "Pražská 127, 39301 Pelhřimov, CZ",
+      "utvar": ""
+    },
+    "Platce": {
+      "datovaSchranka": "cegzpxj",
+      "nazev": "Úřad práce ČR - krajská pobočka v Jihlavě - kontaktní pracoviště Pelhřimov (Úřad práce České republiky)",
+      "ico": "72496991",
+      "adresa": "Pražská 127, 39301 Pelhřimov, CZ",
+      "utvar": ""
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "xbtbhcm",
+        "nazev": "Město Pacov",
+        "ico": "00248789",
+        "adresa": "nám. Svobody 320, 39501, Pacov",
+        "utvar": null
+      }
+    ],
+    "predmet": "Dodatek č. 1 k dohodě č. PEA-V-29/2019, město Pacov",
+    "datumUzavreni": "2020-01-27T00:00:00",
+    "cisloSmlouvy": "PEA-V-29/2019, dod.č.1",
+    "navazanyZaznam": "9969692",
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10626104",
+      "idVerze": "11436200"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 0,
+    "hodnotaVcetneDph": 0,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-22T06:10:00.2421569+01:00",
+    "CalculatedPriceWithVATinCZK": 0,
+    "CalcutatedPriceQuality": 0,
+    "ConfidenceValue": 5,
+    "Id": "11436200",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11436200",
+    "casZverejneni": "2020-01-21T12:11:44+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "rmcdkz4",
+        "nazev": "Českomoravský beton, a.s.",
+        "ico": "49551272",
+        "adresa": "Českomoravský beton, a.s., Beroun 660, 26601 Beroun",
+        "utvar": null
+      }
+    ],
+    "predmet": "Kupní smlova - odběry betonů a materiálů v roce 2020 z provozu Pacov",
+    "datumUzavreni": "2020-01-14T00:00:00",
+    "cisloSmlouvy": "MPACSS00927483",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10610884",
+      "idVerze": "11419832"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 146870,
+    "hodnotaVcetneDph": 0,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-30T23:00:40.3069667+01:00",
+    "CalculatedPriceWithVATinCZK": 177712.7,
+    "CalcutatedPriceQuality": 2,
+    "ConfidenceValue": 0,
+    "Id": "11419832",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11419832",
+    "casZverejneni": "2020-01-20T10:09:33+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov, CZ",
+      "utvar": "OKSI - Odbor kanceláře starosty a investic"
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "",
+        "nazev": "Luboš Kocourek",
+        "ico": "62547291",
+        "adresa": "Luboš Kocourek, Husinecká 2179/23, 39002 Tábor 2",
+        "utvar": null
+      }
+    ],
+    "predmet": "Objednávka - stage, ozučení, osvětlení",
+    "datumUzavreni": "2020-01-20T00:00:00",
+    "cisloSmlouvy": "MPACSS00926932",
+    "navazanyZaznam": null,
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  },
+  {
+    "identifikator": {
+      "idSmlouvy": "10504556",
+      "idVerze": "11304516"
+    },
+    "schvalil": "",
+    "hodnotaBezDph": 30000000,
+    "hodnotaVcetneDph": 30000000,
+    "ciziMena": "",
+    "platnyZaznam": true,
+    "PravniRamec": 2,
+    "Prilohy": "",
+    "LastUpdate": "2020-01-15T23:35:45.2737788+01:00",
+    "CalculatedPriceWithVATinCZK": 30000000,
+    "CalcutatedPriceQuality": 1,
+    "ConfidenceValue": -1,
+    "Id": "11304516",
+    "odkaz": "https://smlouvy.gov.cz/smlouva/11304516",
+    "casZverejneni": "2020-01-08T11:02:41+01:00",
+    "VkladatelDoRejstriku": {
+      "datovaSchranka": "wx6dkif",
+      "nazev": "Česká spořitelna, a.s.",
+      "ico": "45244782",
+      "adresa": "Olbrachtova 1929/62, 14000 Praha 4, CZ",
+      "utvar": ""
+    },
+    "Platce": {
+      "datovaSchranka": "xbtbhcm",
+      "nazev": "Město Pacov ",
+      "ico": "00248789",
+      "adresa": "nám. Svobody 320, 39501 Pacov",
+      "utvar": ""
+    },
+    "Prijemce": [
+      {
+        "datovaSchranka": "wx6dkif",
+        "nazev": "Česká spořitelna, a.s.",
+        "ico": "45244782",
+        "adresa": "Olbrachtova 1929/62, 14000 Praha 4, CZ",
+        "utvar": null
+      }
+    ],
+    "predmet": "Smlouva o úvěru_0423817469-LCD_ CS41000047375013_dodatek 1",
+    "datumUzavreni": "2020-01-03T00:00:00",
+    "cisloSmlouvy": "0423817469-LCD_ CS41000047375013",
+    "navazanyZaznam": "4307124",
+    "souvisejiciSmlouvy": null,
+    "SVazbouNaPolitiky": null,
+    "SVazbouNaPolitikyNedavne": false,
+    "SVazbouNaPolitikyAktualni": false
+  }
+]

@@ -7,10 +7,23 @@ import CityDashboard from './CityDashboard';
 
 window.addEventListener('resize', changeWindowSize);
 
-function changeWindowSize(){
+async function ziskejSmlouvy(){
+    try {
+        const url = process.env.PUBLIC_URL+'/out-10.json'
+        console.log("Url", url)
+        const resp = await fetch(url,{ method: 'GET', cache:'no-cache'})
+        return await resp.json()    
+    } catch (ex){
+        console.log("Proble se ziskanim smluv",ex)
+        return null;
+    }
+}
+
+async function changeWindowSize(){
     const width = window.innerWidth
     const height = window.innerHeight
-    ReactDOM.render(<CityDashboard width={width} height={height}/>, document.getElementById('root'));
+    const smlouvy = await ziskejSmlouvy() 
+    ReactDOM.render(<CityDashboard width={width} height={height} smlouvy={smlouvy}/>, document.getElementById('root'));
 }
 
 changeWindowSize()

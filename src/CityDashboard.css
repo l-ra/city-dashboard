@@ -96,3 +96,48 @@
 .splatnost {
     font-weight: bold;
 }
+
+.element-heading {
+    display: flex;
+    flex-direction: row;
+}
+
+.element-titles {
+    flex-grow: 1;
+}
+
+.element-icons {
+    flex-grow: 0;
+}
+
+.smlouva {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: thin gray solid;
+}
+
+.sml-column1 {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    margin-left: 1ex;
+    margin-right: 1ex;
+}
+
+.sml-column2 {
+    display: flex;
+    flex-grow: 2;
+    flex-direction: column;
+}
+
+.sml-ikona {
+    flex-grow:0;
+}
+
+.sml-emp {
+    font-style: oblique;
+}
+
+
+
